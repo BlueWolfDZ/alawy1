@@ -1,6 +1,6 @@
 token=NTk3OTY0ODA4MjM0NzI5NDg0.XSPwkA.xrXpzxxZ_vKGYB692ATWZEcb2SU
 owner=416285071667101697
 prefix=1
-game=Write , 1help
+game=Write1help
 stayinchannel=true
 songinstatus=false
