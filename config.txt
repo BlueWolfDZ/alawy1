@@ -1,4 +1,4 @@
-token=NTg0NTUzNTM0NzA4Nzc2OTgy.XSNWtw.mB7nFOOFTJ7gwQ0ul1CQVUwmt5g
+token=NTg0NTUyMTg1NDAwOTE4MDIz.XSNWpQ.mBxEp8Q9Xnb_uZRseEviLVesvuo
 owner=416285071667101697
 prefix=3
 game=Write , 3help
