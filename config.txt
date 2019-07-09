@@ -1,6 +1,6 @@
-token=NTkzMDk1ODQ0NTcyNDMwMzM3.XRI6MQ.fdDkexAG8C_520IZCBZ9z0mlJY8
-owner=507215648217366538
-prefix=1
-game=type 1help
+token=NTg0NTUyMTg1NDAwOTE4MDIz.XSNWpQ.mBxEp8Q9Xnb_uZRseEviLVesvuo
+owner=416285071667101697
+prefix=3
+game=Write , 3help
 stayinchannel=true
 songinstatus=true
