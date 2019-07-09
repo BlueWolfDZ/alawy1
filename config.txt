@@ -3,4 +3,4 @@ owner=416285071667101697
 prefix=3
 game=Write , 3help
 stayinchannel=true
-songinstatus=true
+songinstatus=false
