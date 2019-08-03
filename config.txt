@@ -1,5 +1,5 @@
-token=NTk3OTY0ODA4MjM0NzI5NDg0.XSPwkA.xrXpzxxZ_vKGYB692ATWZEcb2SU
-owner=416285071667101697
+token=NjA3MTQyMjU5MjI5NzIwNTg5.XUVTUw.q0x95a2bvzFV9bajDOIfgMG0NCc
+owner=394203622239502337
 prefix=1
 game=Write 1help
 stayinchannel=true
